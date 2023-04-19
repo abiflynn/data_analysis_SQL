@@ -27,5 +27,25 @@ Magist has allowed Eniac to access a snapshot of their database. The data might 
 
 **1.3 Technical Skills**  
  - SQL
+ - Tableau 
+
+**2. Project Outcome
+
+**2.1. Findings** 
+
+**2.1.1 Magist: Dataset**
+ - Magist has a diverse products portfolio 90% of products non-tech related
+ - All analysis concentrated on categories related ot tech products (audio, computer, computer accessories, electronics, telephony)
+ <img width="858" alt="Screenshot 2023-04-19 at 16 41 57" src="https://user-images.githubusercontent.com/120720780/233128723-7abda3ec-a47a-4dde-a265-1480888ede5a.png">
+
+ Average price of products being sold:
+ - All products 267€
+ - Tech products 297€
+ <img width="860" alt="Screenshot 2023-04-19 at 16 42 04" src="https://user-images.githubusercontent.com/120720780/233128747-5df88f61-2f07-43be-8f31-846ecad058ae.png">
+
+**2.2 Recommendations**
+
+
+
 
 
