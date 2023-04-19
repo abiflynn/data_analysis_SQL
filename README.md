@@ -23,13 +23,13 @@ Magist has allowed Eniac to access a snapshot of their database. The data might 
 **1.2 Understanding the Data**
 
 **1.2.1 The Schema**
-![Screenshot 2023-04-19 at 16 22 51](https://user-images.githubusercontent.com/120720780/233123439-8cb05403-f471-4d8d-bdd0-917557cf65d2.png)
+![Screenshot 2023-04-19 at 16 56 03](https://user-images.githubusercontent.com/120720780/233132479-6cd504c1-2264-4d32-8af6-8dc6c8c52bee.png)
 
 **1.3 Technical Skills**  
  - SQL
  - Tableau 
 
-**2. Project Outcome
+**2. Project Outcome**
 
 **2.1. Findings** 
 
@@ -37,12 +37,10 @@ Magist has allowed Eniac to access a snapshot of their database. The data might 
 Magist product catelogue
  - Magist has a diverse products portfolio 90% of products non-tech related
  - All analysis concentrated on categories related ot tech products (audio, computer, computer accessories, electronics, telephony)
-<img width="592" alt="Screenshot 2023-04-19 at 16 43 17" src="https://user-images.githubusercontent.com/120720780/233129248-d95c55f8-7752-45e3-868f-1cd4763c347d.png">
 
  Average price of products being sold:
  - All products 267€
  - Tech products 297€
-<img width="636" alt="Screenshot 2023-04-19 at 16 43 22" src="https://user-images.githubusercontent.com/120720780/233129268-dd70dda1-a542-4aa7-b856-deca8e75a49d.png">
 
 Are expensive tech products popular?
 - Cheaper products sell the most units 
@@ -81,7 +79,7 @@ Magist: Continue Negotiations
 - Renegotiate and request more precise data from Magist to improve assessments 
 Brazil: Localised Expansion 
 - São Paulo: 38% of Magist Sales (Tech Categories, Delivered Status)
-<img width="316" alt="Screenshot 2023-04-19 at 16 53 39" src="https://user-images.githubusercontent.com/120720780/233131808-7ae66c65-20ad-4681-9813-816a84ac59f1.png">
+<img width="288" alt="Screenshot 2023-04-19 at 16 55 14" src="https://user-images.githubusercontent.com/120720780/233132641-adfba3c4-3fa2-4575-9cae-7d372811b456.png">
 Other: Companies
 - Amazon has 5-10% market share within electronics & media in Brazil (ecommerceDB, 2021)
 - Amazon announces one day deliveries in Brazil to tackle rivals (LABS, 2021)
