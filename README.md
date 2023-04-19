@@ -1,10 +1,10 @@
 # data_driven_businesses_SQL
 
-Data-Driven Businesses with SQL 
+**Data-Driven Businesses with SQL**
 
-1.	Project Objectives & Overview
+**1.	Project Objectives & Overview**
 
-1.1	Business Problem 
+**1.1	Business Problem** 
 
 Eniac is an online marketplace specialising in Apple-compatible accessories. It was founded 10 years ago in Spain, and it has since grown and expanded. Since the company went public, the investors have been pushing the company to scale up the business and become a big e-commerce player globally. 
 
@@ -20,8 +20,12 @@ The economic conditions of the deal are already being discussed. But not everyon
 
 Magist has allowed Eniac to access a snapshot of their database. The data might have the answer to these concerns. Working as a Data Analyst to explore the Magist’s database and make recommendations about the 3-year contract.
 
-1.2 Schema 
+**1.2 Understanding the Data**
+
+**1.2.1 The Schema**
 ![Screenshot 2023-04-19 at 16 22 51](https://user-images.githubusercontent.com/120720780/233123439-8cb05403-f471-4d8d-bdd0-917557cf65d2.png)
 
-2. Technologies 
+**1.3 Technical Skills**  
  - SQL
+
+
