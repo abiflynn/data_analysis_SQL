@@ -80,11 +80,14 @@ Concern from the data set is the big step back in customer base from August to S
 <img width="379" alt="Screenshot 2023-04-19 at 16 52 20" src="https://user-images.githubusercontent.com/120720780/233131433-f49a7899-3db5-478b-8c15-82ff9529516f.png">
 
 **2.3 Further Recommendations:** 
+
 Magist: Continue Negotiations
 - Renegotiate and request more precise data from Magist to improve assessments 
+
 Brazil: Localised Expansion 
 - São Paulo: 38% of Magist Sales (Tech Categories, Delivered Status)
 <img width="288" alt="Screenshot 2023-04-19 at 16 55 14" src="https://user-images.githubusercontent.com/120720780/233132641-adfba3c4-3fa2-4575-9cae-7d372811b456.png">
+
 Other: Companies
 - Amazon has 5-10% market share within electronics & media in Brazil (ecommerceDB, 2021)
 - Amazon announces one day deliveries in Brazil to tackle rivals (LABS, 2021)
