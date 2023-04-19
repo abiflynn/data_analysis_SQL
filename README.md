@@ -36,7 +36,7 @@ Magist has allowed Eniac to access a snapshot of their database. The data might 
 
 **2.1.1 Magist: Dataset**
 
-Magist product catelogue
+Magist product information:
  - Magist has a diverse products portfolio 90% of products non-tech related
  - All analysis concentrated on categories related ot tech products (audio, computer, computer accessories, electronics, telephony)
 
@@ -49,6 +49,7 @@ Are expensive tech products popular?
 <img width="669" alt="Screenshot 2023-04-19 at 16 44 14" src="https://user-images.githubusercontent.com/120720780/233129283-15631386-29b6-413e-b1d9-cff3f4b8fee9.png">
 
 **2.2 Recommendations**
+
 After reviewing the dataset from Magist my recommendation is that Eniac should **not** sign the three year contract with Magist.
 
 **2.2.1 Three key reasons for this are as follows:** 
@@ -61,6 +62,7 @@ After reviewing the dataset from Magist my recommendation is that Eniac should *
 - Therefore the product and sales-driven analysis of the database does not suggest a quick agreement on the proposed contract. 
 
 **2. Delivery-Issues in Brazil**
+
 Only a fraction of deliveries are on time:
 - 87.5 % arrive too early -> inconvenient and not building trust
 - Avg. estimated delivery time: 22.9 days
@@ -70,9 +72,10 @@ Only a fraction of deliveries are on time:
 - Avg. national shipping cost in Brazil: 19.3 R$ (Statista, 2023)
 
 **3. Lack of Information in Data** 
+
 Two key pieces of information we are missing;
-- Brands, it would be great to get brand information to see if Magist already sell Apple products and what competitors of Apple they sell to compare the data 
-- Product names and descriptions - with the product categories they are very vague and although we have made assumptions on the relevant categories having this data would give us that greater understating
+1. Brands, it would be great to get brand information to see if Magist already sell Apple products and what competitors of Apple they sell to compare the data 
+2. Product names and descriptions - with the product categories they are very vague and although we have made assumptions on the relevant categories having this data would give us that greater understating
 Concern from the data set is the big step back in customer base from August to September -99.8% - We would need to understand from Magist the reasoning behind this?
 <img width="379" alt="Screenshot 2023-04-19 at 16 52 20" src="https://user-images.githubusercontent.com/120720780/233131433-f49a7899-3db5-478b-8c15-82ff9529516f.png">
 
