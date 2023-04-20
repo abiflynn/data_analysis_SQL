@@ -1,4 +1,4 @@
-# data_driven_businesses_SQL
+# data_analysis_SQL
 
 **Data-Driven Businesses with SQL**
 
