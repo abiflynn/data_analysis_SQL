@@ -1,4 +1,4 @@
-# Data-Driven Businesses with SQL
+# Data Analysis: Should Eniac Sign the 3-Year Contract to Expand into the Brazilian Market
 
 ## 1.	Project Objectives & Overview
 
