@@ -1,10 +1,8 @@
-# data_analysis_SQL
+# Data-Driven Businesses with SQL
 
-**Data-Driven Businesses with SQL**
+## 1.	Project Objectives & Overview
 
-**1.	Project Objectives & Overview**
-
-**1.1.	Business Problem** 
+### 1.1.	Business Problem 
 
 Eniac is an online marketplace specialising in Apple-compatible accessories. It was founded 10 years ago in Spain, and it has since grown and expanded. Since the company went public, the investors have been pushing the company to scale up the business and become a big e-commerce player globally. 
 
@@ -20,19 +18,19 @@ The economic conditions of the deal are already being discussed. But not everyon
 
 Magist has allowed Eniac to access a snapshot of their database. The data might have the answer to these concerns. Working as a Data Analyst to explore the Magist’s database and make recommendations about the 3-year contract.
 
-**1.2. Understanding the Data**
+### 1.2. Understanding the Data
 
 **1.2.1. The Schema**
 
 ![Screenshot 2023-04-19 at 16 56 03](https://user-images.githubusercontent.com/120720780/233132479-6cd504c1-2264-4d32-8af6-8dc6c8c52bee.png)
 
-**1.3. Technical Skills**  
+### 1.3. Technical Skills 
  - SQL
  - Tableau 
 
-**2. Project Outcome**
+## 2. Project Outcome
 
-**2.1. Findings** 
+### 2.1. Findings 
 
 **2.1.1. Magist: Dataset**
 
@@ -48,7 +46,7 @@ Are expensive tech products popular?
  - Cheaper products sell the most units. 
 <img width="669" alt="Screenshot 2023-04-19 at 16 44 14" src="https://user-images.githubusercontent.com/120720780/233129283-15631386-29b6-413e-b1d9-cff3f4b8fee9.png">
 
-**2.2. Recommendations**
+### 2.2. Recommendations
 
 After reviewing the dataset from Magist my recommendation is that Eniac should **not** sign the three-year contract with Magist.
 
@@ -79,7 +77,7 @@ Two key pieces of information we are missing:
 Concern from the data set is the big step back in customer base from August to September -99.8% - We would need to understand from Magist the reasoning behind this?
 <img width="379" alt="Screenshot 2023-04-19 at 16 52 20" src="https://user-images.githubusercontent.com/120720780/233131433-f49a7899-3db5-478b-8c15-82ff9529516f.png">
 
-**2.3. Further Recommendations:** 
+### 2.3. Further Recommendations:
 
 Magist: Continue Negotiations
 - Renegotiate and request more precise data from Magist to improve assessments. 
