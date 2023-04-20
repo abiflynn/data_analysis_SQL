@@ -45,36 +45,36 @@ Magist product information:
  - Tech products 297€
 
 Are expensive tech products popular?
- - Cheaper products sell the most units 
+ - Cheaper products sell the most units. 
 <img width="669" alt="Screenshot 2023-04-19 at 16 44 14" src="https://user-images.githubusercontent.com/120720780/233129283-15631386-29b6-413e-b1d9-cff3f4b8fee9.png">
 
 **2.2. Recommendations**
 
-After reviewing the dataset from Magist my recommendation is that Eniac should **not** sign the three year contract with Magist.
+After reviewing the dataset from Magist my recommendation is that Eniac should **not** sign the three-year contract with Magist.
 
 **2.2.1. Three key reasons for this are as follows:** 
  
  **1. Scope and Scale of Magist**
-- 12% of magist’s revenues is in relevant categories representing 14% of all magist’s shipments
-- Magist does not cooperate with huge catch-all-marketplaces.
+- 12% of Magist’s revenues is in relevant categories representing 14% of all Magist’s shipments.
+- Magist does not cooperate with huge catch all-marketplaces.
 - It does not have a highly tech-specialised portfolio.
 - It provides no access to relevant high-end tech-product-platforms.
-- Therefore the product and sales-driven analysis of the database does not suggest a quick agreement on the proposed contract. 
+- Therefore, the product and sales-driven analysis of the database does not suggest a quick agreement on the proposed contract. 
 
 **2. Delivery-Issues in Brazil**
 
-Only a fraction of deliveries are on time:
-- 87.5 % arrive too early -> inconvenient and not building trust
-- Avg. estimated delivery time: 22.9 days
-- Avg. actual delivery time: 12.1 days
-- 57.3 % of Brazilian online shoppers expect a delivery to arrive in maximum 4-7 days (Statista, 2017)
-- Avg. shipping cost per order from Magista: 19.9 R$
+Only a fraction of deliveries are delivered on time:
+- 87.5 % arrive too early -> inconvenient and not building trust.
+- Avg. estimated delivery time: 22.9 days.
+- Avg. actual delivery time: 12.1 days.
+- 57.3 % of Brazilian online shoppers expect a delivery to arrive in maximum 4-7 days. (Statista, 2017)
+- Avg. shipping cost per order from Magist: 19.9 R$
 - Avg. national shipping cost in Brazil: 19.3 R$ (Statista, 2023)
 
 **3. Lack of Information in Data** 
 
-Two key pieces of information we are missing;
-1. Brands, it would be great to get brand information to see if Magist already sell Apple products and what competitors of Apple they sell to compare the data 
+Two key pieces of information we are missing:
+1. Brands, it would be great to get brand information to see if Magist already sell Apple products and what competitors of Apple they sell to compare the data.
 2. Product names and descriptions - with the product categories they are very vague and although we have made assumptions on the relevant categories having this data would give us that greater understating
 Concern from the data set is the big step back in customer base from August to September -99.8% - We would need to understand from Magist the reasoning behind this?
 <img width="379" alt="Screenshot 2023-04-19 at 16 52 20" src="https://user-images.githubusercontent.com/120720780/233131433-f49a7899-3db5-478b-8c15-82ff9529516f.png">
@@ -82,15 +82,15 @@ Concern from the data set is the big step back in customer base from August to S
 **2.3. Further Recommendations:** 
 
 Magist: Continue Negotiations
-- Renegotiate and request more precise data from Magist to improve assessments 
+- Renegotiate and request more precise data from Magist to improve assessments. 
 
 Brazil: Localised Expansion 
-- São Paulo: 38% of Magist Sales (Tech Categories, Delivered Status)
+- São Paulo: 38% of Magist Sales. (Tech Categories, Delivered Status)
 <img width="288" alt="Screenshot 2023-04-19 at 16 55 14" src="https://user-images.githubusercontent.com/120720780/233132641-adfba3c4-3fa2-4575-9cae-7d372811b456.png">
 
 Other: Companies
-- Amazon has 5-10% market share within electronics & media in Brazil (ecommerceDB, 2021)
-- Amazon announces one day deliveries in Brazil to tackle rivals (LABS, 2021)
+- Amazon has 5-10% market share within electronics & media in Brazil. (ecommerceDB, 2021)
+- Amazon announces one day deliveries in Brazil to tackle rivals. (LABS, 2021)
 
 
 
